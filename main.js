@@ -1007,7 +1007,7 @@ let database = [
   },
   {
     name: "Enamul Muyeed Latifi ",
-    contact: "+8801951434528",
+    contact: "+8801521563833",
     faculty: "CR ESE-45",
     terms: "ESE45 CR ESE 45",
   },
