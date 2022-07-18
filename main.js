@@ -1289,7 +1289,7 @@ let database = [
   },
   {
     name: "Md Abdur Rof Torun",
-    contact: "+8801712625888",
+    contact: "+8801728011850",
     faculty: "CR TFD-46",
     terms: "TFD46 CR TFD 46 Fashion cr TFD cr",
   },
